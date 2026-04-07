@@ -41,6 +41,28 @@
       "Bonita Springs, FL",
       "Marco Island, FL"
     ],
-    "serviceAreaTitle": "We Come to You"
-  }
+    "serviceAreaTitle": "We Come to You",
+    "reviewSynopsis": {
+      "aggregateRating": 5,
+      "totalReviewCount": 58,
+      "boatworkReviewCount": 20,
+      "googleReviewCount": 38,
+      "summary": "Our clients consistently praise Zack and our team for delivering results that go beyond expectations — from brand-new boats to heavily oxidized hulls, customers say we make their vessels and vehicles look better than new. We're proud that so many clients highlight our attention to detail, reasonable pricing, and the quality of our ceramic coating work as reasons they return to us again and again, with some even driving over two hours to trust us with their prized possessions. Whether it's paint correction, full ceramic protection, or tackling tough oxidation, customers love that we take our time and do the job right — and their glowing recommendations speak for themselves.",
+      "keywords": [
+        "ceramic coating",
+        "paint correction",
+        "boat detailing",
+        "oxidation removal",
+        "attention to detail",
+        "System X ceramic coating",
+        "marine detailing",
+        "multi-year ceramic protection"
+      ],
+      "sources": [
+        "boatwork",
+        "google"
+      ]
+    }
+  },
+  "synopsisUpdatedAt": "2026-04-07T14:08:02.381Z"
 }
